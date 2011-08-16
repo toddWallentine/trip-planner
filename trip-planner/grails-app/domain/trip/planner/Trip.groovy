@@ -8,6 +8,7 @@ class Trip {
 	Date endDate
 	String purpose
 	String notes
+	Airline airline
 
     static constraints = {
     }
